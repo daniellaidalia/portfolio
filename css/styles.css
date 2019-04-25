@@ -4,5 +4,6 @@ body {
 }
 
 .active {
+  size: 16pt;
   color: red;
 }
