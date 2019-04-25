@@ -1,19 +1,11 @@
 <nav>
   <ul>
+    {% for item in site.data.navigation %}
       <li>
-        <a href="/portfolio">
-          Home
+        <a href="#">
+          {{item}}
         </a>
       </li>
-    <li>
-      <a href="/work">
-        Work
-      </a>
-    </li>
-    <li>
-      <a href="/about">
-        About
-      </a>
-    </li>
+    {% endfor %}
   </ul>
 </nav>
