@@ -8,10 +8,10 @@ body {
   text-align: center;
 }
 
-nav {
+nav ul {
   list-style-type: none;
-  display: inline-block;
-  width: 33%;
+  margin: 0;
+  padding: 0;
 }
 
 a:link, a:active, a:visited {
