@@ -8,15 +8,15 @@ body {
 }
 
 a:link {
-  color: none;
+  style: none;
 }
 
 /* visited link */
 a:visited {
-  color: none;
+  style: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: purple;
+  color: deeppink;
 }
