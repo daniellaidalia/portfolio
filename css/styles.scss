@@ -15,7 +15,8 @@ nav ul {
 }
 
 nav li {
-  display: inline;
+  display: inline-block;
+  width: 33%;
 }
 
 a:link, a:active, a:visited {
