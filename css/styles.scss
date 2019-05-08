@@ -26,20 +26,13 @@ a:link, a:active, a:visited {
   margin: auto;
 }
 
-.cat-grid {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .cats {
-  width: 50%;
+  width: 100%;
   list-style-type: none;
-  display: inline;
 }
 
 .single-cat {
-  width: 100%;
+  width: 50vw;
 }
 
 .single-cat img {
