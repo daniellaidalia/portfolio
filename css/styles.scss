@@ -8,6 +8,10 @@ body {
   text-align: center;
 }
 
+nav {
+  background-color: gray;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -16,8 +20,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  width: 30%;
-  background-color: deeppink;
+  width: 32%;
 }
 
 a:link, a:active, a:visited {
