@@ -33,5 +33,10 @@ a:link, a:active, a:visited {
 }
 
 .cats {
-width: 50%;
+  width: 100%;
+  list-style: none;
+}
+
+.single-cat {
+  width: 50%;
 }
