@@ -1,6 +1,6 @@
 - name: home
   link: /
-- name: memes
+- name: meme of the day
   link: /memes/
 - name: cats
   link: /cats/
