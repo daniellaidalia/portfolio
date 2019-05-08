@@ -42,5 +42,7 @@ a:link, a:active, a:visited {
 }
 
 .single-cat img {
-  width: 50vw;
+  width: 100%;
+  padding: 1%;
+  object-fit: cover;
 }
