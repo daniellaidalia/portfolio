@@ -10,7 +10,8 @@ body {
 
 nav {
   list-style-type: none;
-  display: inline;
+  display: inline-block;
+  width: 33%;
 }
 
 a:link, a:active, a:visited {
