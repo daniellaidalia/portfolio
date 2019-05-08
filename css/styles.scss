@@ -2,7 +2,8 @@
 ---
 
 body {
-  background-color: pink;
+  background-color: black;
+  color: white;
   font-family: 'Courier New', sans-serif;
 }
 
@@ -11,10 +12,16 @@ body {
 }
 
 a:link, a:active, a:visited {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
 a:hover {
   color: deeppink;
+}
+
+.surprise {
+  width: 50%;
+  margin: auto;
+  text-align: center;
 }
