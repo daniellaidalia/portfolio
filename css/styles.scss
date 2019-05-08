@@ -14,6 +14,10 @@ nav ul {
   padding: 0;
 }
 
+nav li {
+  display: inline;
+}
+
 a:link, a:active, a:visited {
   color: white;
   text-decoration: none;
