@@ -1,6 +1,6 @@
 - name: home
   link: /
-- name: about
-  link: /about/
-- name: work
-  link: /work/
+- name: memes
+  link: /memes/
+- name: cats
+  link: /cats/
