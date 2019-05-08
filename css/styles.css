@@ -3,10 +3,21 @@ body {
   font-family: sans-serif;
 }
 
-.active {
+a:link {
+  color: none;
+}
+
+/* visited link */
+a:visited {
   color: red;
 }
 
-.visited {
-  style: none;
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
